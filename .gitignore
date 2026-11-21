@@ -1,0 +1,8 @@
+# wirtualne środowisko
+.venv/
+
+# pliki i katalogi pythona
+__pycache__
+
+# pliki systemowe
+.DS_Store
